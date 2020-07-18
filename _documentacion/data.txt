@@ -1,0 +1,21 @@
+https://www.tucomputador.com/
+composer create-project symfony/website-skeleton tucomputador
+
+dreamhost
+
+usuairo mauricio
+pass 1234567890
+
+
+FTP:
+host: tucomputador.com
+user: tucomputadorall
+pass: TuCompu!2020
+
+Mysql:
+host: mysql.tucomputador.com
+user: tucomputernow
+pass: TuC0mpuT@d0r
+
+Para phpMyAdmin pon en tu navegador http://mysql.tucomputador.com
+
